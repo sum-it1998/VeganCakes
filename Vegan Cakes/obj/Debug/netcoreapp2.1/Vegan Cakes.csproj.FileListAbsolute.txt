@@ -1,0 +1,43 @@
+C:\Users\Bhushan\source\repos\Vegan Cakes\Vegan Cakes\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Bhushan\source\repos\Vegan Cakes\Vegan Cakes\bin\Debug\netcoreapp2.1\libman.json
+C:\Users\Bhushan\source\repos\Vegan Cakes\Vegan Cakes\bin\Debug\netcoreapp2.1\Vegan Cakes.deps.json
+C:\Users\Bhushan\source\repos\Vegan Cakes\Vegan Cakes\bin\Debug\netcoreapp2.1\Vegan Cakes.runtimeconfig.json
+C:\Users\Bhushan\source\repos\Vegan Cakes\Vegan Cakes\bin\Debug\netcoreapp2.1\Vegan Cakes.runtimeconfig.dev.json
+C:\Users\Bhushan\source\repos\Vegan Cakes\Vegan Cakes\bin\Debug\netcoreapp2.1\Vegan Cakes.dll
+C:\Users\Bhushan\source\repos\Vegan Cakes\Vegan Cakes\bin\Debug\netcoreapp2.1\Vegan Cakes.pdb
+C:\Users\Bhushan\source\repos\Vegan Cakes\Vegan Cakes\bin\Debug\netcoreapp2.1\Vegan Cakes.Views.dll
+C:\Users\Bhushan\source\repos\Vegan Cakes\Vegan Cakes\bin\Debug\netcoreapp2.1\Vegan Cakes.Views.pdb
+C:\Users\Bhushan\source\repos\Vegan Cakes\Vegan Cakes\obj\Debug\netcoreapp2.1\Vegan Cakes.csproj.AssemblyReference.cache
+C:\Users\Bhushan\source\repos\Vegan Cakes\Vegan Cakes\obj\Debug\netcoreapp2.1\Vegan Cakes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bhushan\source\repos\Vegan Cakes\Vegan Cakes\obj\Debug\netcoreapp2.1\Vegan Cakes.AssemblyInfoInputs.cache
+C:\Users\Bhushan\source\repos\Vegan Cakes\Vegan Cakes\obj\Debug\netcoreapp2.1\Vegan Cakes.AssemblyInfo.cs
+C:\Users\Bhushan\source\repos\Vegan Cakes\Vegan Cakes\obj\Debug\netcoreapp2.1\Vegan Cakes.csproj.CoreCompileInputs.cache
+C:\Users\Bhushan\source\repos\Vegan Cakes\Vegan Cakes\obj\Debug\netcoreapp2.1\Vegan Cakes.RazorAssemblyInfo.cache
+C:\Users\Bhushan\source\repos\Vegan Cakes\Vegan Cakes\obj\Debug\netcoreapp2.1\Vegan Cakes.RazorAssemblyInfo.cs
+C:\Users\Bhushan\source\repos\Vegan Cakes\Vegan Cakes\obj\Debug\netcoreapp2.1\Vegan Cakes.TagHelpers.input.cache
+C:\Users\Bhushan\source\repos\Vegan Cakes\Vegan Cakes\obj\Debug\netcoreapp2.1\Vegan Cakes.TagHelpers.output.cache
+C:\Users\Bhushan\source\repos\Vegan Cakes\Vegan Cakes\obj\Debug\netcoreapp2.1\Vegan Cakes.RazorCoreGenerate.cache
+C:\Users\Bhushan\source\repos\Vegan Cakes\Vegan Cakes\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\Bhushan\source\repos\Vegan Cakes\Vegan Cakes\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\Bhushan\source\repos\Vegan Cakes\Vegan Cakes\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\Bhushan\source\repos\Vegan Cakes\Vegan Cakes\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\Bhushan\source\repos\Vegan Cakes\Vegan Cakes\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Bhushan\source\repos\Vegan Cakes\Vegan Cakes\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Bhushan\source\repos\Vegan Cakes\Vegan Cakes\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Bhushan\source\repos\Vegan Cakes\Vegan Cakes\obj\Debug\netcoreapp2.1\Razor\Views\FeedBack\FeedBackDone.cshtml.g.cs
+C:\Users\Bhushan\source\repos\Vegan Cakes\Vegan Cakes\obj\Debug\netcoreapp2.1\Razor\Views\FeedBack\Index.cshtml.g.cs
+C:\Users\Bhushan\source\repos\Vegan Cakes\Vegan Cakes\obj\Debug\netcoreapp2.1\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\Bhushan\source\repos\Vegan Cakes\Vegan Cakes\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Bhushan\source\repos\Vegan Cakes\Vegan Cakes\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Bhushan\source\repos\Vegan Cakes\Vegan Cakes\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Bhushan\source\repos\Vegan Cakes\Vegan Cakes\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Bhushan\source\repos\Vegan Cakes\Vegan Cakes\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ViewStart.cshtml.g.cs
+C:\Users\Bhushan\source\repos\Vegan Cakes\Vegan Cakes\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Bhushan\source\repos\Vegan Cakes\Vegan Cakes\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Bhushan\source\repos\Vegan Cakes\Vegan Cakes\obj\Debug\netcoreapp2.1\Vegan Cakes.RazorTargetAssemblyInfo.cache
+C:\Users\Bhushan\source\repos\Vegan Cakes\Vegan Cakes\obj\Debug\netcoreapp2.1\Vegan Cakes.RazorTargetAssemblyInfo.cs
+C:\Users\Bhushan\source\repos\Vegan Cakes\Vegan Cakes\obj\Debug\netcoreapp2.1\Vegan Cakes.Views.pdb
+C:\Users\Bhushan\source\repos\Vegan Cakes\Vegan Cakes\obj\Debug\netcoreapp2.1\Vegan Cakes.dll
+C:\Users\Bhushan\source\repos\Vegan Cakes\Vegan Cakes\obj\Debug\netcoreapp2.1\Vegan Cakes.pdb
+C:\Users\Bhushan\source\repos\Vegan Cakes\Vegan Cakes\obj\Debug\netcoreapp2.1\Vegan Cakes.genruntimeconfig.cache
+C:\Users\Bhushan\source\repos\Vegan Cakes\Vegan Cakes\obj\Debug\netcoreapp2.1\Vegan Cakes.csproj.CopyComplete

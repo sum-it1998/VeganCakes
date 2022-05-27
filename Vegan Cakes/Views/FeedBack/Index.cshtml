@@ -1,0 +1,55 @@
+﻿@using Vegan_Cakes.Models
+@model FeedBack
+
+@{
+    Layout = "_Layout";
+}
+
+<form asp-action="Index" method="post" class="form-horizontal well" role="form">
+
+    <div class="form-group">
+        <label asp-for="Name" class="col-md-2 control-label"></label>
+        <div class="col-md-5">
+
+            <input asp-for="Name" class="form-control" />
+            <span asp-validation-for="Name" class="text-danger"></span>
+
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Email" class="col-md-2 control-label"></label>
+        <div class="col-md-5">
+
+            <input asp-for="Email" class="form-control" />
+             <span asp-validation-for="Email" class="text-danger"></span>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Message" class="col-md-2 control-label"></label>
+        <div class="col-md-5">
+
+            <input type="text" asp-for="Message" class="form-control" />
+             <span asp-validation-for="Message" class="text-danger"></span>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="ContactMe" class="col-md-2 control-label"></label>
+        <div class="col-md-5">
+
+            <input type="checkbox" asp-for="ContactMe" class="form-control" />
+
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="col-md-2 control-label">Action</label>
+        <div class="col-md-2">
+            <input type="submit" class="form-control btn-default" />
+
+        </div>
+    </div>
+
+</form>

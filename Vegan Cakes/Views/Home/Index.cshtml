@@ -1,0 +1,26 @@
+﻿@using Vegan_Cakes.ViewModels
+
+@model HomeViewModel
+@{
+    Layout = "_Layout";
+}
+
+<h2 class="well">@Model.Title</h2>
+
+@foreach (var item in Model.Cakes)
+{
+    <div class="col-sm-4 col-lg-4 col-md-4">
+
+       <div class="thumbnail">
+           <img src="@item.ImageThumbUrl">
+           <div class="caption">
+               <h3 class="pull-right">@item.Price.ToString("c")</h3>
+               <h3>
+                   <a asp-controller="Home" asp-action="Details"
+                   asp-route-id="@item.Id">@item.Name</a>
+               </h3>
+               <p>@item.ShortDescription</p>
+           </div>
+       </div>
+    </div>
+}
